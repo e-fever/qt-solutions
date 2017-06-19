@@ -1,0 +1,22 @@
+{
+  "name": "net.efever.qtsingleapplication",
+  "description": "Unofficial release of QtSingleApplication",
+  "author": {
+    "name": "Ben Lau",
+    "email": "xbenlau@gmail.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "git@github.com:e-fever/qtsingleapplication.git"
+  },
+  "version": {
+    "label": "2.4.0",
+    "revision": "0",
+    "fingerprint": ""
+  },
+  "dependencies": [
+  ],
+  "license": "BSD_3_CLAUSE",
+  "pri_filename": "qtsingleapplication/src/qtsingleapplication.pri",
+  "webpage": ""
+}
